@@ -1,0 +1,10 @@
+{
+    "products": [
+        {"id": 1, "name": "Product A", "price": "$100"},
+        {"id": 2, "name": "Product B", "price": "$200"}
+    ],
+    "services": [
+        {"id": 1, "name": "Service A", "description": "High-quality service A."},
+        {"id": 2, "name": "Service B", "description": "Premium service B."}
+    ]
+}
